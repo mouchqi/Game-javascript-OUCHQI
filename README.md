@@ -11,4 +11,4 @@ Utilisez la barre d'espacement pour tirer sur les envahisseurs extraterrestres. 
 
 # Code source 
 
-Le code source est organisé en plusieurs fichiers pour une meilleure lisibilité et maintenance. Le fichier principal est game.js, qui contient la logique du jeu
+Le code source est organisé en plusieurs fichiers pour une meilleure lisibilité et maintenance. Le fichier principal est jeu.js, qui contient la logique du jeu
